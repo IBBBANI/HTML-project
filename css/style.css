@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #0f172a;
+    font-family: Arial, sans-serif;
+    color: #ffffff;
+}
+
+.container {
+    text-align: center;
+    padding: 40px;
+}
+
+h1 {
+    color: #facc15;
+}
+
+.poster {
+    width: 300px;
+    border-radius: 12px;
+    margin: 20px 0;
+}
+
+p {
+    max-width: 600px;
+    margin: auto;
+    font-size: 16px;
+}
+
+button {
+    margin-top: 20px;
+    padding: 10px 25px;
+    font-size: 16px;
+    background-color: #facc15;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #fde047;
+}
